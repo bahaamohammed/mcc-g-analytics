@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19286949157",
+    "project_id": "mccanalystic",
+    "storage_bucket": "mccanalystic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19286949157:android:5e59a380a3f8f4900caecc",
+        "android_client_info": {
+          "package_name": "com.bahaadev.mcc_g_analytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19286949157-tj0t63148jkgvr4atvorof3v3l5r7b92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4bmjiFknc-lGfgXI0ggCWxaEwgAIWNpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19286949157-tj0t63148jkgvr4atvorof3v3l5r7b92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
